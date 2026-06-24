@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">💻 Software Engineer specializing in Full-Stack Web and Cross-Platform Mobile architectures<br><br>👨‍🎓 🎨 2+ years of experience shipping production-ready applications across web (Next.js/MERN), iOS, and Android (Flutter/React Native)<br><br>🎯 Passionate about designing robust database schemas and managing end-to-end application release lifecycles<br><br>Delivering seamless end-to-end solutions, from complex database architecture to app store deployments.<br><br>🌷 Currently learning advance tools and technologies<br><br>🙋‍♂️ Open to remote or on-site software engineering opportunities</p>
+<p align="left">💻 Software Engineer specializing in Full-Stack Web and Cross-Platform Mobile architectures<br><br>🎨 2+ years of experience shipping production-ready applications across web (Next.js/MERN), iOS, and Android (Flutter/React Native)<br><br>🎯 Passionate about designing robust database schemas and managing end-to-end application release lifecycles<br><br>🤖Delivering seamless end-to-end solutions, from complex database architecture to app store deployments.<br><br>🌷 Currently learning advance tools and technologies<br><br>🙋‍♂️ Open to remote or on-site software engineering opportunities</p>
 
 ###
 
@@ -87,6 +87,10 @@
   <img src="https://img.shields.io/badge/Socket.io-010101?logo=socketdotio&logoColor=white&style=for-the-badge" height="40" alt="socketio logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/flutter/02569B" height="40" alt="flutter logo" /
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/expo/000000" height="40" alt="expo logo" />
 </div>
 
 ###
