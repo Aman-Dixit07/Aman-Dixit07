@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">💻 A recent graduate and a Full-stack Developer<br><br>👨‍🎓 Studied computer science engineering from Chouksey Engineering College , Bilaspur<br><br>🎨 1+ years of experience  in creating full-stack web applications<br><br>🎯 Pursuing my goal to get a remote or in-office developer job<br><br>🌷 Currently learning advance tools and technologies<br><br>🙋‍♂️ Open to any remote/on-site developer opportunity</p>
+<p align="left">💻 Software Engineer specializing in Full-Stack Web and Cross-Platform Mobile architectures<br><br>👨‍🎓 🎨 2+ years of experience shipping production-ready applications across web (Next.js/MERN), iOS, and Android (Flutter/React Native)<br><br>🎯 Passionate about designing robust database schemas and managing end-to-end application release lifecycles<br><br>Delivering seamless end-to-end solutions, from complex database architecture to app store deployments.<br><br>🌷 Currently learning advance tools and technologies<br><br>🙋‍♂️ Open to remote or on-site software engineering opportunities</p>
 
 ###
 
